@@ -11,6 +11,7 @@ Source code and examples from the talks given at [MagmaConf 2013](http://www.mag
 * Tip #5: Leverage providers configuration
 * Tip #6: Share a Notifications Service
 * Tip #7: Automate your workflow
+* Tip #8: Yeoman
 
 # Thanks
 Thanks to @cliffmeyers, @jhooks, @ryancanulla, @plbabin, @connatser, @bclinkinbeard, Dustin Butler, Wes Jones, Nate Lokers and Robert Taylor all these patterns and best practices comes from team effort
